@@ -1,0 +1,10 @@
+#!/bin/bash
+
+SCRIPT=$(readlink -f $0)
+SCRIPTPATH=`dirname $SCRIPT`
+
+if [ "x$LUA" = "x" ]; then
+    LUA=lua
+fi
+
+env $LUA -i $SCRIPTPATH/rfsm-sim.lua $1

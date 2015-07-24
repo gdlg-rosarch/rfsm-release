@@ -1,3 +1,24 @@
+## rfsm (jade) - 1.0.0-0
+
+The packages in the `rfsm` repository were released into the `jade` distro by running `/usr/bin/bloom-release rfsm --track jade --ros-distro jade --new` on `Fri, 24 Jul 2015 12:14:01 -0000`
+
+The `rfsm` package was released.
+
+Version of package(s) in repository `rfsm`:
+- upstream repository: https://github.com/orocos/rFSM.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## rfsm (indigo) - 1.0.0-0
 
 The packages in the `rfsm` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --ros-distro indigo --new rfsm` on `Sun, 25 Jan 2015 20:44:07 -0000`

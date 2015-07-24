@@ -1,0 +1,12 @@
+Source: ros-jade-rfsm
+Section: misc
+Priority: extra
+Maintainer: Orocos Developers <orocos-dev@lists.mech.kuleuven.be>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: http://people.mech.kuleuven.be/~mklotzbucher/rfsm/README.html
+Standards-Version: 3.9.2
+
+Package: ros-jade-rfsm
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: This package contains the rFSM flavor of Statecharts.

@@ -1,3 +1,26 @@
+## rfsm (kinetic) - 1.0.1-0
+
+The packages in the `rfsm` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --ros-distro kinetic rfsm` on `Tue, 02 May 2017 07:56:46 -0000`
+
+The `rfsm` package was released.
+
+Version of package(s) in repository `rfsm`:
+
+- upstream repository: https://github.com/orocos/rFSM.git
+- release repository: https://github.com/orocos-gbp/rfsm-release.git
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## rfsm (jade) - 1.0.0-0
 
 The packages in the `rfsm` repository were released into the `jade` distro by running `/usr/bin/bloom-release rfsm --track jade --ros-distro jade --new` on `Fri, 24 Jul 2015 12:14:01 -0000`
